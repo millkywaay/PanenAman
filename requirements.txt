@@ -7,3 +7,4 @@ joblib
 python-dotenv
 openai
 requests
+statsmodels
